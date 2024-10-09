@@ -25,14 +25,14 @@
     padding: 1rem 1rem;
 }
 .skillBars{
-    margin: 1.5rem;
+    margin: 2rem;
     width: 100vw;
      max-width: 80%;
      text-align: left ;
 }
 .skillBar{
     display: flex;
-    margin: 0.5rem;
+    margin: 1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: whitesmoke;
