@@ -8,13 +8,13 @@
     align-items: center;
     /* text-align: center; */
     color: black;
-    margin: 2rem auto;
+    margin: 0 auto;
 }
 .skillTitle{
     font-size: 2rem;
     font-weight: 600;
     padding-top: 3rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 .skillDesc{
     background: whitesmoke;
@@ -22,7 +22,7 @@
     font-weight: 200;
     font-size: 1rem;
     max-width: 51rem;
-    padding: 2rem 2rem;
+    padding: 1rem 1rem;
 }
 .skillBars{
     margin: 1.5rem;
@@ -32,18 +32,17 @@
 }
 .skillBar{
     display: flex;
-    margin: 1rem;
+    margin: 0.5rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: whitesmoke;
-    margin-bottom: 1.75rem;
 
 }
 .skillBarImg{
     object-fit: cover;
     height: 3rem;
     width: 3rem;
-    margin-right: 2rem;
+    margin-right: 0.5rem;
 }
 .skillBarText>p{
     font-size: 0.9rem;
