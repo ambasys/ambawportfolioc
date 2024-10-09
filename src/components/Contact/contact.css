@@ -2,7 +2,7 @@
     max-width: 65rem;
     width: 100vw;
     height: calc(100vh-4rem);
-    margin: 2rem auto;
+    margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -52,7 +52,7 @@ input:focus {
 .submitBtn{
     background: lightskyblue;
     border-radius: 0.5rem;
-    margin-top: 0.5rem;
+    margin: 0.5rem;
     padding: 0.4rem 3.5rem;
     font-size: 1.5rem;
 }
