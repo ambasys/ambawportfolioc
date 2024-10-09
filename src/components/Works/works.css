@@ -15,7 +15,6 @@
     margin: 0.5rem 0;
     font-size: 2rem;
     font-weight: 300;
-    margin-bottom: 0.5rem;
 }
 .workDesc{
     font-weight: 300;
@@ -30,6 +29,7 @@
     flex-wrap: wrap;
     width: 100vw;
     max-width: 70rem;
+    margin-bottom: 1rem;
 }
 .worksImg{
     height: 12rem;
@@ -38,15 +38,6 @@
     padding: 0.5rem;
     border: solid 5px whitesmoke;
     border-radius: 5px;
-}
-.worksBtn{
-    margin: 3rem 0;
-    padding: 0.5rem 2.5rem;
-    border-radius: 2rem;
-    border: none;
-    background: white;
-    font-size: 1rem;
-
 }
 @media screen and (max-width:585px) {
     .worksImg{
