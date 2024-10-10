@@ -10,10 +10,10 @@ const Works = () => {
         <h2 className='workTitle'>My Portfolio</h2>
         <span className='workDesc'>I take pride in paying attention to the smallest details.I am excited to bring my skills and experience to help bussinesses achieve their goals and create a strong online presence.</span>
         <div className='worksImgs'>
-            <img src={portfolio2} className='worksImg' alt='' />
-            <img src={portfolio3} className='worksImg' alt='' />
-            <img src={portfolio4} className='worksImg' alt='' />
-            <img src={portfolio5} className='worksImg' alt='' />
+            <img src={portfolio2} className='worksImg' alt='web development project screenshot' />
+            <img src={portfolio3} className='worksImg' alt='web development project screenshot' />
+            <img src={portfolio4} className='worksImg' alt='web development project screenshot' />
+            <img src={portfolio5} className='worksImg' alt='blog development screenshot' />
 
         </div>
     </section>

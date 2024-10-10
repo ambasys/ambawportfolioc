@@ -10,7 +10,7 @@ const Skills = () => {
         <div className='skillBars'>
 
             <div className='skillBar'>
-                <img src={FE} className='skillBarImg' alt='UIDesign' />
+                <img src={FE} className='skillBarImg' alt='UI/UX Design' />
                 <div className='skillBarText'>
                     <h2>Front-End development</h2>
                     <p>I have the experience to develop front end applications using html,css,javascript. I am also experienced with javascript frameworks such as react.</p>
@@ -18,7 +18,7 @@ const Skills = () => {
             </div>
 
             <div className='skillBar'>
-                <img src={BE} className='skillBarImg' alt='WebDesign' />
+                <img src={BE} className='skillBarImg' alt='Web Design and development' />
                 <div className='skillBarText'>
                     <h2>Back-End development</h2>
                     <p>I am experienced in back-end development with PHP and Node js</p>
