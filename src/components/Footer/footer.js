@@ -3,7 +3,7 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer className='footer'>
-        Copyright &#169; 2024 Ambaw Mulat. All right Reserved.
+        Copyright &#169; 2024 Ambaw Mulat. All rights Reserved.
     </footer>
   );
 }
