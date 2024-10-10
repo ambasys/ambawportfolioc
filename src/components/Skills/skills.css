@@ -6,7 +6,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* text-align: center; */
     color: black;
     margin: 4rem auto;
 }
@@ -22,13 +21,15 @@
     font-weight: 200;
     font-size: 1rem;
     max-width: 51rem;
+    justify-content: center;
     padding: 1rem 1rem;
 }
 .skillBars{
     margin: 2rem;
     width: 100vw;
-     max-width: 80%;
-     text-align: left ;
+    max-width: 80%;
+    text-align: left ;
+    justify-content: center;
 }
 .skillBar{
     display: flex;
