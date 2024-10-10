@@ -6,7 +6,7 @@ const Skills = () => {
   return (
     <section id='skills'>
         <span className='skillTitle'>What I Do</span>
-        <span className='skillDesc'>I am a skilled and passionate full stack web developer with experiences in creating visually appealing and user friendly website. I have a strong understanding of web development and a keen eye for detail. <br/> I am proficient in html, css, javascript and php as one stack. I am also experinced with MERN(Mongodb, Express js, React js and Node js) stack as well.</span>
+        <span className='skillDesc'>I am a skilled and passionate full stack web developer with experiences in creating visually appealing and user friendly website. I have a strong understanding of web design and development. I have also a keen eye for details.I am proficient in html, css, javascript and php as one stack. I am also experinced with MERN(Mongodb, Express js, React js and Node js) stack as well.</span>
         <div className='skillBars'>
 
             <div className='skillBar'>
